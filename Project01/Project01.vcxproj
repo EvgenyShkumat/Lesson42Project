@@ -122,6 +122,7 @@
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Logic.cpp" />
     <ClCompile Include="task02.cpp" />
+    <ClCompile Include="task03.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
